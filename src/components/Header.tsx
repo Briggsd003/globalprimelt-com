@@ -213,7 +213,7 @@ const MobileNav = forwardRef(function (props: any, ref: any) {
               href="mailto:support@globalprimelt.online"
               className="text-white"
             >
-              support@mail.globalprimelt.online
+              support@pm.globalprimelt.online
             </a>
           </li>
           <li className="text-[14px] relative flex items-center text-[#a2a2b1] font-medium mt-[15px]">
