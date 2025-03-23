@@ -93,7 +93,7 @@ const Header: FC<{ pathname: string }> = ({ pathname }) => {
             </svg>
           </a> */}
           <a
-            href="https://app.globalprimelt.online"
+            href="https://app.globalprimelt.com"
             id=""
             className="text-[15px] text-black bg-custom-yellow px-[25px] py-[17px] md:inline-block hidden hover:bg-white hover:text-custom-dark-primary custom-transition ml-[35px]"
           >
@@ -150,7 +150,7 @@ const MobileNav = forwardRef(function (props: any, ref: any) {
         {/*  */}
         <a
           className="w-full text-center mx-0 mb-[20px] text-black flex items-center bg-custom-yellow justify-center h-[45px]"
-          href="https://app.globalprimelt.online"
+          href="https://app.globalprimelt.com"
         >
           Login
         </a>
@@ -209,11 +209,8 @@ const MobileNav = forwardRef(function (props: any, ref: any) {
         <ul className="mx-0 my-[20px]">
           <li className="text-[14px] relative flex items-center text-[#a2a2b1] font-medium">
             <i className="text-white bg-dark-secondary w-[32px] h-[32px] text-center rounded-[50%] mr-[10px] flex items-center justify-center icon-email"></i>
-            <a
-              href="mailto:support@globalprimelt.online"
-              className="text-white"
-            >
-              support@pm.globalprimelt.online
+            <a href="mailto:support@globalprimelt.com" className="text-white">
+              support@pm.globalprimelt.com
             </a>
           </li>
           <li className="text-[14px] relative flex items-center text-[#a2a2b1] font-medium mt-[15px]">
